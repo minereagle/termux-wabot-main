@@ -89,4 +89,4 @@ você acabou de clonar!!
 
 ### Donate
 * <a href="https://paypal.me/minereagleusd"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-* <a href=""<img alt="Paypal" src="" /></a>
+* <a href="https://nubank.com.br/pagar/1drh8y/3umH6uRa0j"<img alt="PIX" src="https://img.shields.io/badge/meu-pix-blue" /></a>
